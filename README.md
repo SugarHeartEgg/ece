@@ -4,9 +4,9 @@
 
 ![A2](https://github.com/SugarHeartEgg/ece/blob/master/image/A2.jpg)
 
-![A3](https://github.com/SugarHeartEgg/ece/blob/master/image/A3.jpg)
+![A3](https://github.com/SugarHeartEgg/ece/blob/master/image/A3.jpeg)
 
-![A4](https://github.com/SugarHeartEgg/ece/blob/master/image/A4.jpg)
+![A4](https://github.com/SugarHeartEgg/ece/blob/master/image/A4.jpeg)
 
 ![A5](https://github.com/SugarHeartEgg/ece/blob/master/image/A5.jpg)
 
