@@ -1,13 +1,13 @@
-## 哆啦A梦的欢乐时光
+## 哆啦 A 梦的欢乐时光
 
-![A1](C:\Users\Administrator\Desktop\as\git-help\image\A1.jpg)
+![A1](https://github.com/SugarHeartEgg/ece/blob/master/image/A1.jpg)
 
-![A2](C:\Users\Administrator\Desktop\as\git-help\image\A2.jpg)
+![A2](https://github.com/SugarHeartEgg/ece/blob/master/image/A2.jpg)
 
-![A3](C:\Users\Administrator\Desktop\as\git-help\image\A3.jpeg)
+![A3](https://github.com/SugarHeartEgg/ece/blob/master/image/A3.jpg)
 
-![A4](C:\Users\Administrator\Desktop\as\git-help\image\A4.jpeg)
+![A4](https://github.com/SugarHeartEgg/ece/blob/master/image/A4.jpg)
 
-![A5](C:\Users\Administrator\Desktop\as\git-help\image\A5.jpg)
+![A5](https://github.com/SugarHeartEgg/ece/blob/master/image/A5.jpg)
 
-![B1](C:\Users\Administrator\Desktop\as\git-help\image\B1.jpg)
+![B1](https://github.com/SugarHeartEgg/ece/blob/master/image/B1.jpg)
